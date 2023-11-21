@@ -1,0 +1,24 @@
+//Вызов функции
+/*fun repeat(word:String,time:Int){
+    var i = 0
+
+    while (i<time){
+        println(word)
+        i++
+    }
+}
+fun main(){
+    repeat("Hello word",0)
+
+}
+*/
+//Возвращаемые функции
+/*fun returnFullName (firstName:String,surname:String): String {
+    return "${firstName} ${surname}"
+}
+
+fun main(){
+    val fullName:String = returnFullName("Никита","Волков")
+    println(fullName)
+}
+*/
